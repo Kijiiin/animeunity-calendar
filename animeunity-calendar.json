@@ -2,13 +2,13 @@
   "id": "animeunity-calendar-it",
   "name": "AnimeUnity Calendar (IT)",
   "description": "Mostra le uscite di AnimeUnity.cx nella schermata Calendario di Seanime.",
-  "manifestURI": "https://raw.githubusercontent.com/Kijiiin/animeunity-calendar/refs/heads/main/animeunity-calendar.json",
-  "version": "1.0.0",
+  "manifestURI": "https://raw.githubusercontent.com/Kijiiin/seanime-animeunity/refs/heads/main/animeunity-calendar.json",
+  "version": "1.0.1",
   "author": "Kijiiin",
   "type": "plugin",
   "language": "typescript",
   "lang": "it",
-  "payloadURI": "https://raw.githubusercontent.com/Kijiiin/animeunity-calendar/refs/heads/main/animeunity-calendar.ts",
+  "payloadURI": "https://raw.githubusercontent.com/Kijiiin/seanime-animeunity/refs/heads/main/animeunity-calendar.ts",
   "plugin": {
     "version": "1",
     "permissions": {
